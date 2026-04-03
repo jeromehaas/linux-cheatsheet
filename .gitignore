@@ -1,0 +1,39 @@
+# MACOS
+.DS_Store
+
+# WINDOWS
+Thumbs.db
+Desktop.ini
+
+# LINUX / SHELL NOISE
+*~
+.nfs*
+
+# VIM
+*.swp
+*.swo
+Session.vim
+
+# VS CODE
+.vscode/
+
+# JETBRAINS
+.idea/
+*.iml
+
+# GENERATED ARCHIVES
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# LOGS
+*.log
+
+# ENVIRONMENT FILES
+.env
+.env.*
+
+# PYTHON CACHE, IN CASE HELPER SCRIPTS ARE ADDED
+__pycache__/
+*.pyc
